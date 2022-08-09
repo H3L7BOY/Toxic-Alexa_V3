@@ -52,22 +52,22 @@ global.location = "India, Kerala,KL05/ur location
 global.botname = "Lexha Bot v1" //ur bot name
 global.websitex = "https://github.com/H3L7BOY" //ur website
 global.vidmenu = fs.readFileSync("./TurboMedia/theme/alexa.mp4") //gif and video menu
-global.packname = "𝗧𝚯𝗫𝗜𝗖 ₪ 𝚫𝗟𝗘𝗫𝚫"
-global.author = "𝗧𝚯𝗫𝗜𝗖 𝗧𝗨𝗥𝗕𝚯"
+global.packname = "𝗟𝗘𝗫𝗛𝗔 𝗕𝗢𝗧 𝗩➊"
+global.author = "𝐇𝟑𝐋𝟕𝐁𝐎𝐘"
 global.themeemoji = "💖"
 global.reactmoji = "🌹"
-global.ownertag = ['916380260672'] //ur owner number
-global.ownernummenu = ['916380260672'] //ur owner number in menu and all
-global.watermark = " 𝗧𝚯𝗫𝗜𝗖 𝗧𝗨𝗥𝗕𝚯" //ur watermark
-global.botscript = "https://github.com/TURBOHYPER/Toxic-Alexa_V3"
+global.ownertag = ['687811818'] //ur owner number
+global.ownernummenu = ['687811818'] //ur owner number in menu and all
+global.watermark = " 𝗟𝗘𝗫𝗛𝗔 𝗕𝗢𝗧 𝗩➊" //ur watermark
+global.botscript = "https://github.com/H3L7BOY/Toxic-Alexa_V3"
 global.linkz1 = "https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp"
 global.linkz2 = "https://chat.whatsapp.com/GsgzyBU8Vld0YCNnFrBAQt"
 
 //Bot theme media
-global.thum = fs.readFileSync("./TurboMedia/theme/alexa.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./TurboMedia/theme/alexa.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./TurboMedia/theme/alexa.jpg") //ur error pic
-global.thumb = fs.readFileSync("./TurboMedia/theme/alexa.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://i.imgur.com/EKhN71d.jpeg") //ur thumb pic
+global.log0 = fs.readFileSync("https://i.imgur.com/EKhN71d.jpeg") //ur logo pic
+global.err4r = fs.readFileSync("https://i.imgur.com/EKhN71d.jpeg") //ur error pic
+global.thumb = fs.readFileSync("https://i.imgur.com/EKhN71d.jpeg") //ur thumb pic
 
 //database
 global.ntilinkytvid = []
