@@ -1,6 +1,6 @@
 {
- "name": "Toxic-Alexa_V3",
- "description": "Multi Device Whatsapp Bot By Turbo",
+ "name": "Lexha Bot v1",
+ "description": "Multi Device Whatsapp Bot By H3L7BOY",
  "version": "3.0.0",
  "main": "index.js",
  "type": "commonjs",
@@ -10,7 +10,7 @@
  "keywords": [
   "termux",
   "whatsapp",
-  "Toxic-Alexa_V3",
+  "Lexha Bot v1",
   "wabase-md",
   "base",
   "baileys-md",
@@ -18,7 +18,7 @@
   "bot-md",
   "multi-device"
  ],
- "author": "TURBOHYPER ",
+ "author": "H3L7BOY ",
  "license": "MIT",
  "dependencies": {
   "@adiwajshing/baileys": "^4.0.1",
