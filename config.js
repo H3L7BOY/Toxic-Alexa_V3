@@ -43,7 +43,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['687811818','919526774396'] //you can add multiple number
-global.ownername = "H3L7BOY"
+global.ownername ="H3L7BOY"
 global.ytname = "YT: HELLNODZ" //ur yt chanel name
 global.socialm = "GitHub: H3L7BOY //ur github or insta name
 global.location = "India, Kerala,KL05/ur location
